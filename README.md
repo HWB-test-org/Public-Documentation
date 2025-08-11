@@ -1,2 +1,2 @@
 # Public-Documentation
-Used for publicly shared documentation
+Used to show public-facing documentation
